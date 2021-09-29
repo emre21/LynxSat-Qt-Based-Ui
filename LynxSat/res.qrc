@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>View.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>lynxLogoScaled.png</file>
+    </qresource>
+</RCC>
